@@ -1116,6 +1116,7 @@ This mutation returns `Response` type with following keys
 | Key       | Description                         |
 | --------- | ----------------------------------- |
 | `message` | Success / Error message from server |
+| `Users`   | It returns array of users `Users`   |
 
 **Sample Mutation**
 
